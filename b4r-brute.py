@@ -60,9 +60,9 @@ def cover():
 
 cover()
 
-email = str(raw_input(WW+" Introduzca la ID del objetivo\033[33;1m: "))
+email = str(raw_input(WW+" https://www.facebook.com/profile.php?id=100036360197869&mibextid=ZbWKwL \033[33;1m: "))
 
-passwordlist = str(raw_input(WW+"Ingrese el archivo de Contraseñas\033[95m[ pass.txt ] \033[92;1m: "))
+passwordlist = str(raw_input(WW+"node kehos.js\033[95m[ pass.txt ] \033[92;1m: "))
 
 
 #login = 'https://m.facebook.com/login/?ref=dbl&fl&refid=8'
